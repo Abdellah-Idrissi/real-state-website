@@ -3,4 +3,4 @@
 + libraries used : swiperjs & scrollrevealjs
 + Includes a dark and light mode
 
-+ LIVE DEMO : https://abdellah-idrissi.github.io/real-state-website/
++ **LIVE DEMO** : https://abdellah-idrissi.github.io/real-state-website/
